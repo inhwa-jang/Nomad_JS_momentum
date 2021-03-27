@@ -1,5 +1,5 @@
 # Momentum clone coding 모멘텀 
-+ 사용자의 위치기반 기온을 확인할 수 있는 **투두리스트 크롬웹앱
++ 사용자의 위치기반 기온을 확인할 수 있는 **투두리스트** 크롬웹앱
 + 사용한 스택: HTML, CSS, Vanila Javascript, API:openWeatherMap
 
 ## How to use this? 사용법
